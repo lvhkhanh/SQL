@@ -1,5 +1,6 @@
 # SQL
-
+## Courses
+### https://learn.datacamp.com/career-tracks/data-analyst-with-sql-server?version=1
 https://www.codecademy.com/learn/sql-table-transformation
 
 https://www.codecademy.com/learn/sql-analyzing-business-metrics
