@@ -2,6 +2,7 @@
 ## Paths
 ### https://www.codecademy.com/paths/analyze-data-with-sql/tracks/analyze-data-sql-get-started-with-sql/modules/what-is-sql/lessons/why-sql-ii/exercises/sql-queries
 ## Courses
+### https://www.codecademy.com/learn/learn-sql
 ### https://learn.datacamp.com/career-tracks/data-analyst-with-sql-server?version=1
 https://www.codecademy.com/learn/sql-table-transformation
 
