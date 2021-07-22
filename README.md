@@ -20,3 +20,4 @@ https://www.codecademy.com/learn/sql-analyzing-business-metrics
 ### https://www.syncfusion.com/ebooks/sql_server_for_c_sharp_developers_succinctly
 ### https://www.syncfusion.com/ebooks/sqlserver
 - [ ] https://subscription.packtpub.com/book/data/9781838642358/1/ch01lvl1sec04/an-overview-of-basic-sql-commands
+## Performance
