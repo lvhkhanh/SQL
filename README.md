@@ -1,4 +1,6 @@
 # SQL
+## Best Practices
+- [x] reused TYPE -> declare var1 table2.column3%TYPE;
 ## Paths
 ### https://www.codecademy.com/paths/analyze-data-with-sql/tracks/analyze-data-sql-get-started-with-sql/modules/what-is-sql/lessons/why-sql-ii/exercises/sql-queries
 ## Courses
