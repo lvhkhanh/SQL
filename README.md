@@ -7,6 +7,7 @@
 - [ ] where move to first inner join
 - [ ] where in 
 - [ ] ROWNUM starts from 1; put it in the most outer clause
+- [ ] materialzed view, auto refresh on commit; create index on view
 ## Paths
 ### https://www.codecademy.com/paths/analyze-data-with-sql/tracks/analyze-data-sql-get-started-with-sql/modules/what-is-sql/lessons/why-sql-ii/exercises/sql-queries
 ## Courses
