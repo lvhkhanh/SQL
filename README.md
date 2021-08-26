@@ -6,6 +6,7 @@
 - [ ] inner join then left join
 - [ ] where move to first inner join
 - [ ] where in 
+- [ ] WITH clause for creating function, temp table
 - [ ] ROWNUM starts from 1; put it in the most outer clause
 - [ ] materialzed view, auto refresh on commit; create index on view
 ## Paths
