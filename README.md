@@ -2,6 +2,7 @@
 ## Best Practices
 - [x] Based on statistics, Use index (1%) vs read whole table (25%)
 - [x] reused TYPE -> declare var1 table2.column3%TYPE;
+- [x] Convert OR(prevent index usages) to AND for using INDEX
 - [ ] condition JOIN, NOT IN, NOT EXISTS
 - [ ] check tables with same alias
 - [ ] inner join then left join
