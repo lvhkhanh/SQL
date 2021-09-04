@@ -1,5 +1,6 @@
 # SQL
 ## Best Practices
+- [x] add index 
 - [x] reused TYPE -> declare var1 table2.column3%TYPE;
 - [ ] condition JOIN, NOT IN, NOT EXISTS
 - [ ] check tables with same alias
