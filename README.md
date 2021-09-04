@@ -4,6 +4,7 @@
 - [x] reused TYPE -> declare var1 table2.column3%TYPE;
 - [x] Convert OR(prevent index usages) to UNION ALL + AND for using INDEX
 - [x] nested sub query to join query
+- [x] `SELECT mum_distinct FROM dba_tab_columns WHERE table_name='tbl_name'`
 - [ ] condition JOIN, NOT IN, NOT EXISTS
 - [ ] check tables with same alias
 - [ ] inner join then left join
