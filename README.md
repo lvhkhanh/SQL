@@ -5,6 +5,7 @@
 - [x] Convert OR(prevent index usages) to UNION ALL + AND for using INDEX
 - [x] nested sub query to join query
 - [x] `SELECT mum_distinct FROM dba_tab_columns WHERE table_name='tbl_name'`
+- [x] less record table first, then more record table later
 - [ ] condition JOIN, NOT IN, NOT EXISTS
 - [ ] check tables with same alias
 - [ ] inner join then left join
