@@ -1,6 +1,6 @@
 # SQL
 ## Best Practices
-- [x] add index 
+- [x] Use index (1%) vs read whole table (25%)
 - [x] reused TYPE -> declare var1 table2.column3%TYPE;
 - [ ] condition JOIN, NOT IN, NOT EXISTS
 - [ ] check tables with same alias
