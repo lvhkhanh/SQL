@@ -9,6 +9,7 @@
 - [ ] WITH clause for creating function, temp table
 - [ ] ROWNUM starts from 1; put it in the most outer clause
 - [ ] materialzed view, auto refresh on commit; create index on view
+- [ ] table partitioning
 ## Paths
 ### https://www.codecademy.com/paths/analyze-data-with-sql/tracks/analyze-data-sql-get-started-with-sql/modules/what-is-sql/lessons/why-sql-ii/exercises/sql-queries
 ## Courses
@@ -18,6 +19,7 @@
 - [ ] https://www.guru99.com/sql.html
 - [ ] https://www.codecademy.com/catalog/language/python
 - [ ] https://www.w3schools.com/sql/default.asp
+- [ ] [Oracle SQL Performance Tuning Masterclass 2021](https://fpt-software.udemy.com/course/sql-performance-tuning-masterclass/learn/lecture/12287140#:~:text=Oracle%20SQL%20Performance%20Tuning%20Masterclass%202021)
 ### https://www.codecademy.com/learn/learn-sql
 ### https://learn.datacamp.com/career-tracks/data-analyst-with-sql-server?version=1
 https://www.codecademy.com/learn/sql-table-transformation
