@@ -11,7 +11,11 @@ EXEC dbms_stats.gather_schema_stats(ownname=>'SH');
 EXEC dbms_stats.gather_table_stats(ownname=>'SH', tabname=>'tbl', cascade=>true);
 SELECT * FROM dba_table_statistics WHERE table_name ='tbl';
 ```
-- [x] EXPLAIN PLAN FOR <sql>;
+- [x] Explain plan
+``` 
+EXPLAIN PLAN FOR <sql>;
+SELECT * FROM plan_table;
+```
 - [x] reused TYPE -> declare var1 table2.column3%TYPE;
 - [x] Convert OR(prevent index usages) to UNION ALL + AND for using INDEX
 - [x] nested sub query to join query
