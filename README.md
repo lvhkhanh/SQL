@@ -1,6 +1,9 @@
 # SQL
 ## Best Practices
 - [x] Based on statistics, Use index (1%) vs read whole table (25%)
+```
+EXE dbms_stats.gather_system_stats('Start');
+```
 - [x] reused TYPE -> declare var1 table2.column3%TYPE;
 - [x] Convert OR(prevent index usages) to UNION ALL + AND for using INDEX
 - [x] nested sub query to join query
