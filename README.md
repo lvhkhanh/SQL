@@ -6,6 +6,7 @@ EXEC dbms_stats.gather_system_stats('Start');
 SELECT * FROM sys.aux_stats$;
 ANALYZE TABLE <tbl> COMPUTE STATISTICS; 
 EXEC dbms_stats.gather_database_stats;
+EXEC dbms_stats.gather_d_stats;
 ```
 - [x] reused TYPE -> declare var1 table2.column3%TYPE;
 - [x] Convert OR(prevent index usages) to UNION ALL + AND for using INDEX
