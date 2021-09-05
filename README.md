@@ -15,6 +15,7 @@ SELECT * FROM dba_table_statistics WHERE table_name ='tbl';
 ``` 
 EXPLAIN PLAN FOR <sql>;
 SELECT * FROM plan_table;
+SELECT * FROM TABLE(DBMS_XPLAN.DISPLAY());
 ```
 - [x] reused TYPE -> declare var1 table2.column3%TYPE;
 - [x] Convert OR(prevent index usages) to UNION ALL + AND for using INDEX
