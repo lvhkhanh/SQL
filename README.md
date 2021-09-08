@@ -18,6 +18,7 @@ SELECT * FROM plan_table;
 SELECT * FROM TABLE(DBMS_XPLAN.DISPLAY());
 EXPLAIN PLAN SET statement_id='myID' INTO my_tbl FOR <sql>;
 ```
+- [x] Cost (%CPU)
 - [x] IN (1,2,3,4) => BETWEEN 1 AND 4
 - [x] reused TYPE -> declare var1 table2.column3%TYPE;
 - [x] Convert OR(prevent index usages) to UNION ALL + AND for using INDEX
