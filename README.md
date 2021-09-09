@@ -25,6 +25,7 @@ EXPLAIN PLAN SET statement_id='myID' INTO my_tbl FOR <sql>;
 - [x] nested sub query to join query
 - [x] `SELECT mum_distinct FROM dba_tab_columns WHERE table_name='tbl_name'`
 - [x] less record table first, then more record table later
+- [x] CREATE INDEX for GROUP BY columns
 - [ ] condition JOIN, NOT IN, NOT EXISTS
 - [ ] check tables with same alias
 - [ ] inner join then left join
