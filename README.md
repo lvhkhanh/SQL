@@ -1,4 +1,6 @@
 # SQL
+## Certificate
+https://www.codecademy.com/profiles/Khanh.Le/certificates/042a4e5884e3eb6ea1f2a12be6abb851 Learn SQL Course
 ## Best Practices
 - [x] Based on statistics, Use index (1%) vs read whole table (25%)
 ```
