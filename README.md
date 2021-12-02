@@ -2,6 +2,7 @@
 ## Certificate
 https://www.codecademy.com/profiles/Khanh.Le/certificates/042a4e5884e3eb6ea1f2a12be6abb851 Learn SQL Course
 ## Best Practices
+- [] check index usaged, check no_result_cache, opt adaptive plans when use sql explain
 - [x] Based on statistics, Use index (1%) vs read whole table (25%)
 ```
 EXEC dbms_stats.gather_system_stats('Start');
