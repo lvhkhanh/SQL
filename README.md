@@ -2,7 +2,8 @@
 ## Certificate
 https://www.codecademy.com/profiles/Khanh.Le/certificates/042a4e5884e3eb6ea1f2a12be6abb851 Learn SQL Course
 ## Best Practices
-- [ ] MERGE INTO vs INSERT/UPDATE
+- [x] LEFT JOIN  (1:1 vs 1:n)
+- [x] MERGE INTO vs INSERT/UPDATE (condition duplicate table join)
 - [x] check index usaged, check no_result_cache, opt adaptive plans when use sql explain
 - [x] Based on statistics, Use index (1%) vs read whole table (25%)
 ```
