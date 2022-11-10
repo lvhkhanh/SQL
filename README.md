@@ -11,6 +11,7 @@ Learn SQL Course
 - [x] OR -> IN (1,3), number better than text
 - [x] WITH clause for creating function, temp table (common table expression)
 - [x] Partition column in WHERE 
+- [x] SELECT * FROM pg_indexes
 - [x] https://www.sqlstyle.guide/
 - [x] q'[Content single quote ' do not need to double.]'
 - [x] LEFT JOIN  (1:1 vs 1:n)
