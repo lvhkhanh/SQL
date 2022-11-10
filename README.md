@@ -9,6 +9,8 @@ Learn SQL Course
 ## Best Practices
 - [x] LIKE ANY(ARRAY('%a', '%b'))
 - [x] OR -> IN (1,3), number better than text
+- [x] WITH clause for creating function, temp table (common table expression)
+- [x] Partition column in WHERE 
 - [x] https://www.sqlstyle.guide/
 - [x] q'[Content single quote ' do not need to double.]'
 - [x] LEFT JOIN  (1:1 vs 1:n)
@@ -46,7 +48,6 @@ EXPLAIN PLAN SET statement_id='myID' INTO my_tbl FOR <sql>;
 - [ ] inner join then left join
 - [ ] where move to first inner join
 - [ ] where in 
-- [ ] WITH clause for creating function, temp table
 - [ ] ROWNUM starts from 1; put it in the most outer clause
 - [ ] materialzed view, auto refresh on commit; create index on view
 - [ ] table partitioning
