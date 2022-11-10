@@ -7,6 +7,7 @@ https://www.codecademy.com/profiles/Khanh.Le/certificates/042a4e5884e3eb6ea1f2a1
 
 Learn SQL Course
 ## Best Practices
+- [x] LIKE ANY(ARRAY('%a', '%b'))
 - [x] https://www.sqlstyle.guide/
 - [x] q'[Content single quote ' do not need to double.]'
 - [x] LEFT JOIN  (1:1 vs 1:n)
