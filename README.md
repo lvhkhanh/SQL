@@ -4,6 +4,7 @@
 https://www.codecademy.com/profiles/Khanh.Le/certificates/042a4e5884e3eb6ea1f2a12be6abb851 
 - [x] Intermediate SQL https://www.datacamp.com/statement-of-accomplishment/course/4490b59dc6b22b8bf18d34ef0c115ffa62b68689?raw=1
 - [x] Joining Data in SQL https://www.datacamp.com/statement-of-accomplishment/course/4fc917b3bcd186c1e65339398fe23adf639f016b?raw=1
+- [x] Improving query performance in PostgreSQL https://www.datacamp.com/statement-of-accomplishment/course/a445e2e4ac33be172d3fbcdc698c624d3e241ac4?raw=1
 
 Learn SQL Course
 ## Best Practices
