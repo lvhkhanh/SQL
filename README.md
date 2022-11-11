@@ -12,7 +12,7 @@ Learn SQL Course
 - [x] WITH clause for creating function, temp table (common table expression)
 - [x] Partition column in WHERE 
 - [x] SELECT * FROM pg_indexes
-- [x] CREATE INDEX CONCURRENTLY index_a ON tbl_b(col_c)
+- [x] CREATE INDEX CONCURRENTLY index_a ON tbl_b(col_c); create index for cols in WHERE
 - [x] https://www.sqlstyle.guide/
 - [x] q'[Content single quote ' do not need to double.]'
 - [x] LEFT JOIN  (1:1 vs 1:n)
